@@ -1,0 +1,11 @@
+{
+    "manufacturerId": "meade",
+    "typeId": "eyepiece",
+    "modelName": "MA 9mm",
+    "connectorsId": [""],
+    "picture": "meade_ma9mm.png",
+    "params": {
+        "type": "Modified Achromat",
+        "focal_length": 9
+    }
+}

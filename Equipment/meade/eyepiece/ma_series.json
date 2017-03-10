@@ -1,0 +1,25 @@
+[
+    {
+        "id": "meade_ma9mm",
+        "manufacturerId": "meade",
+        "typeId": "eyepiece",
+        "modelName": "MA 9mm",
+        "connectorsId": ["eye_adaptor"],
+        "picture": "Equipment/meade/eyepiece/meade_ma9mm.jpg",
+        "params": {
+            "type": "Modified Achromat",
+            "focalLength": 9
+        }
+    },
+    {
+        "id": "meade_ma25mm",
+        "manufacturerId": "meade",
+        "typeId": "eyepiece",
+        "modelName": "MA 25mm",
+        "connectorsId": ["eye_adaptor"],
+        "params": {
+            "type": "Modified Achromat",
+            "focalLength": 25
+        }
+    }
+]

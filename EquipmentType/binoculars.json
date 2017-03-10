@@ -1,0 +1,11 @@
+[
+    {
+        "id": "binoculars",
+        "name": "Binoculars",
+        "schema": {
+            "fields":{
+                "focal_length": {"type":"Number", "unit":"mm"}
+            }
+        }
+    }
+]

@@ -1,0 +1,65 @@
+[
+        {
+            "id": "meade_starnavigator_ng_114mm_optical_tube",
+            "manufacturerId": "meade",
+            "typeId": "optical_tube",
+            "modelName": "StarNavigator NG 114mm Optical Tube",
+            "connectors": [
+                "vixen_style_dovetail_bar",
+                "eyepiece_female_31_75mm"
+            ],
+            "params": {
+                "type": "Newtonian Reflector",
+                "diameter": 114,
+                "focalLength": 1000
+            }
+        },
+        {
+            "id": "meade_starnavigator_ng_130mm_optical_tube",
+            "manufacturerId": "meade",
+            "typeId": "optical_tube",
+            "modelName": "StarNavigator NG 130mm Optical Tube",
+            "connectors": [
+                "vixen_style_dovetail_bar",
+                "eyepiece_female_31_75mm"
+            ],
+            "params": {
+                "type": "Newtonian Reflector",
+                "diameter": 130,
+                "focalLength": 1000
+            }
+        },
+        {
+            "id": "meade_starnavigator_ng_mount",
+            "manufacturerId": "meade",
+            "type": "mount",
+            "modelName": "StarNavigator NG Mount",
+            "connectors": [
+                "vixen_style_dovetail_clamp"
+            ],
+            "params": {
+                "type": "altazimutal"
+            }
+        },
+        {
+            "id": "meade_starnavigator_ng_130mm_travel_pack",
+            "manufacturerId": "meade",
+            "type": "telescope",
+            "modelName": "StarNavigator NG 130mm Travel Pack",
+            "subComponents": [
+                "meade_starnavigator_ng_130mm_optical_tube",
+                "meade_starnavigator_ng_mount"
+            ]
+        },
+        {
+            "id": "meade_starnavigator_ng_114mm_reflecting_telescope",
+            "manufacturerId": "meade",
+            "type": "telescope",
+            "modelName": "StarNavigator NG 114mm Reflecting Telescope",
+            "picture": "http://api.noctuasky.com/parse/files/noctuasky/7f7a3aa86ff793269977d73bb51fefc2_Meade-StarNavigator_NG_114mm_Reflecting_Telescope.png",
+            "subComponents": [
+                "meade_starnavigator_ng_114mm_optical_tube",
+                "meade_starnavigator_ng_mount"
+            ]
+        }
+    ]

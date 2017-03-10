@@ -1,0 +1,12 @@
+[
+    {
+        "id": "eye",
+        "name": "Human Eye",
+        "connectTo": ["eye_adaptor"]
+    },
+    {
+        "id": "eye_adaptor",
+        "name": "Human Eye Adaptor",
+        "connectTo": ["eye"]
+    }
+]

@@ -1,0 +1,5 @@
+{
+    "id": "vixen_style_dovetail_clamp",
+    "name": "Vixen-style dovetail clamp",
+    "connectTo": ["vixen_style_dovetail_bar"]
+}

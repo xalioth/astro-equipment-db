@@ -4,7 +4,7 @@ An open and collaborative data base of astronomical equipments
 
 ## Concepts
 
-The data base is a simple file tree containings json files. Each file describes an item, and must be named after the item id. Item can be of the following types (and must be located is the directory corresponding to there type):
+The data base is a simple file tree containings json files. Each file describes an item, and must be named after the item id. Item can be of the following types (and must be located is the directory corresponding to their type):
 
  * Equipment: description of an equipment such as a telescope, a mount or binoculars. Each Equipment has an EquipmentType (e.g. telescope, mount, binoculars etc..), is made by an EquipmentManufacturer (meade, celestron, etc..), and can be connected to other Equipment using EquipmentConnector.
  * EquipmentType: for each type, define a set of properties. E.g. for an optical tube, the diameter and focal length are properties which must be defined.

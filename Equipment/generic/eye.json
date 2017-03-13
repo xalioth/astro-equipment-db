@@ -1,0 +1,9 @@
+[
+    {
+        "id": "eye",
+        "manufacturerId": "generic",
+        "typeId": "eye",
+        "modelName": "Human Eyes",
+        "connectorsId": ["eye"]
+    }
+]

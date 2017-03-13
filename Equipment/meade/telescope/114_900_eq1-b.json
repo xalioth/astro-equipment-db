@@ -1,0 +1,40 @@
+[
+    {
+        "id": "meade_114_900_eq1-b_optical_tube",
+        "manufacturerId": "meade",
+        "typeId": "optical_tube",
+        "modelName": "114/900 EQ1-B Optical Tube",
+        "connectors": [
+            "vixen_style_dovetail_bar",
+            "eyepiece_female_31_75mm"
+        ],
+        "params": {
+            "type": "Newtonian Reflector",
+            "diameter": 114,
+            "focalLength": 900
+        }
+    },
+    {
+        "id": "meade_114_900_eq1-b_mount",
+        "manufacturerId": "meade",
+        "type": "mount",
+        "modelName": "114/900 EQ1-B Mount",
+        "connectors": [
+            "vixen_style_dovetail_clamp"
+        ],
+        "params": {
+            "type": "equatorial"
+        }
+    },
+    {
+        "id": "meade_114_900_eq1-b",
+        "manufacturerId": "meade",
+        "type": "telescope",
+        "modelName": "114/900 EQ1-B",
+        "picture": "https://api.noctuasky.com/parse/files/noctuasky/950878c3fab9f295edc592e2b0c566d4_Meade-114_900_EQ1-B.jpg",
+        "subComponents": [
+            "meade_114_900_eq1-b_optical_tube",
+            "meade_114_900_eq1-b_mount"
+        ]
+    }
+]

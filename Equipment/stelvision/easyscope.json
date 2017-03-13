@@ -1,0 +1,12 @@
+[
+    {
+        "id": "stelvision_easyscope",
+        "manufacturerId": "stelvision",
+        "typeId": "monocular",
+        "modelName": "Easyscope 8x42",
+        "connectorsId": ["eye_adaptor"],
+        "picture": "Equipment/stelvision/Stelvision-Easyscope_8x42.jpg",
+        "params": {
+        }
+    }
+]

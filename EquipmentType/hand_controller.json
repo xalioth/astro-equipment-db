@@ -1,6 +1,6 @@
 [
     {
-        "id": "hand_controller",
+        "astroId": "hand_controller",
         "name": "Hand Controller"
     }
 ]

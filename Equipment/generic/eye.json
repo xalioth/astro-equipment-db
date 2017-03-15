@@ -1,6 +1,6 @@
 [
     {
-        "id": "eye",
+        "astroId": "eye",
         "manufacturerId": "generic",
         "typeId": "eye",
         "modelName": "Human Eyes",

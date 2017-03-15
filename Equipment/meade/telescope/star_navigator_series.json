@@ -1,6 +1,6 @@
 [
         {
-            "id": "meade_starnavigator_ng_114mm_optical_tube",
+            "astroId": "meade_starnavigator_ng_114mm_optical_tube",
             "manufacturerId": "meade",
             "typeId": "optical_tube",
             "modelName": "StarNavigator NG 114mm Optical Tube",
@@ -15,7 +15,7 @@
             }
         },
         {
-            "id": "meade_starnavigator_ng_130mm_optical_tube",
+            "astroId": "meade_starnavigator_ng_130mm_optical_tube",
             "manufacturerId": "meade",
             "typeId": "optical_tube",
             "modelName": "StarNavigator NG 130mm Optical Tube",
@@ -30,7 +30,7 @@
             }
         },
         {
-            "id": "meade_starnavigator_ng_mount",
+            "astroId": "meade_starnavigator_ng_mount",
             "manufacturerId": "meade",
             "type": "mount",
             "modelName": "StarNavigator NG Mount",
@@ -42,7 +42,7 @@
             }
         },
         {
-            "id": "meade_starnavigator_ng_130mm_travel_pack",
+            "astroId": "meade_starnavigator_ng_130mm_travel_pack",
             "manufacturerId": "meade",
             "type": "telescope",
             "modelName": "StarNavigator NG 130mm Travel Pack",
@@ -52,7 +52,7 @@
             ]
         },
         {
-            "id": "meade_starnavigator_ng_114mm_reflecting_telescope",
+            "astroId": "meade_starnavigator_ng_114mm_reflecting_telescope",
             "manufacturerId": "meade",
             "type": "telescope",
             "modelName": "StarNavigator NG 114mm Reflecting Telescope",

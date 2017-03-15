@@ -1,6 +1,6 @@
 [
     {
-        "id": "meade_114_900_eq1-b_optical_tube",
+        "astroId": "meade_114_900_eq1-b_optical_tube",
         "manufacturerId": "meade",
         "typeId": "optical_tube",
         "modelName": "114/900 EQ1-B Optical Tube",
@@ -15,7 +15,7 @@
         }
     },
     {
-        "id": "meade_114_900_eq1-b_mount",
+        "astroId": "meade_114_900_eq1-b_mount",
         "manufacturerId": "meade",
         "type": "mount",
         "modelName": "114/900 EQ1-B Mount",
@@ -27,7 +27,7 @@
         }
     },
     {
-        "id": "meade_114_900_eq1-b",
+        "astroId": "meade_114_900_eq1-b",
         "manufacturerId": "meade",
         "type": "telescope",
         "modelName": "114/900 EQ1-B",

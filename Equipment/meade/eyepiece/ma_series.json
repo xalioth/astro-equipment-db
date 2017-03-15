@@ -1,6 +1,6 @@
 [
     {
-        "id": "meade_ma9mm",
+        "astroId": "meade_ma9mm",
         "manufacturerId": "meade",
         "typeId": "eyepiece",
         "modelName": "MA 9mm",
@@ -12,7 +12,7 @@
         }
     },
     {
-        "id": "meade_ma25mm",
+        "astroId": "meade_ma25mm",
         "manufacturerId": "meade",
         "typeId": "eyepiece",
         "modelName": "MA 25mm",

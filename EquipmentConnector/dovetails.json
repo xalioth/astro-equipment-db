@@ -1,11 +1,11 @@
 [
     {
-        "id": "vixen_style_dovetail_bar",
+        "astroId": "vixen_style_dovetail_bar",
         "name": "Vixen-style dovetail bar",
         "connectTo": ["vixen_style_dovetail_clamp"]
     },
     {
-        "id": "vixen_style_dovetail_clamp",
+        "astroId": "vixen_style_dovetail_clamp",
         "name": "Vixen-style dovetail clamp",
         "connectTo": ["vixen_style_dovetail_bar"]
     }

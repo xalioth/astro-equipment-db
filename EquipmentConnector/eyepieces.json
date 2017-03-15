@@ -1,11 +1,11 @@
 [
     {
-        "id": "eyepiece_female_31_75mm",
+        "astroId": "eyepiece_female_31_75mm",
         "name": "31.75 mm (1.25\") Eyepiece Female",
         "connectTo": ["eyepiece_male_31_75mm"]
     },
     {
-        "id": "eyepiece_male_31_75mm",
+        "astroId": "eyepiece_male_31_75mm",
         "name": "31.75 mm (1.25\") Eyepiece Male",
         "connectTo": ["eyepiece_female_31_75mm"]
     }

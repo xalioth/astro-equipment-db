@@ -1,6 +1,6 @@
 [
     {
-        "id": "stelvision_easyscope",
+        "astroId": "stelvision_easyscope",
         "manufacturerId": "stelvision",
         "typeId": "monocular",
         "modelName": "Easyscope 8x42",

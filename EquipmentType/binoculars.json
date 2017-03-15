@@ -1,6 +1,6 @@
 [
     {
-        "id": "binoculars",
+        "astroId": "binoculars",
         "name": "Binoculars",
         "schema": {
             "fields":{

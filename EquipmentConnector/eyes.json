@@ -1,11 +1,11 @@
 [
     {
-        "id": "eye",
+        "astroId": "eye",
         "name": "Human Eye",
         "connectTo": ["eye_adaptor"]
     },
     {
-        "id": "eye_adaptor",
+        "astroId": "eye_adaptor",
         "name": "Human Eye Adaptor",
         "connectTo": ["eye"]
     }

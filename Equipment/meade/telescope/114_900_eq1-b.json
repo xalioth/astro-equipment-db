@@ -4,7 +4,7 @@
         "manufacturerId": "meade",
         "typeId": "optical_tube",
         "modelName": "114/900 EQ1-B Optical Tube",
-        "connectors": [
+        "connectorsId": [
             "vixen_style_dovetail_bar",
             "eyepiece_female_31_75mm"
         ],
@@ -17,9 +17,9 @@
     {
         "astroId": "meade_114_900_eq1-b_mount",
         "manufacturerId": "meade",
-        "type": "mount",
+        "typeId": "mount",
         "modelName": "114/900 EQ1-B Mount",
-        "connectors": [
+        "connectorsId": [
             "vixen_style_dovetail_clamp"
         ],
         "params": {
@@ -29,7 +29,7 @@
     {
         "astroId": "meade_114_900_eq1-b",
         "manufacturerId": "meade",
-        "type": "telescope",
+        "typeId": "telescope",
         "modelName": "114/900 EQ1-B",
         "picture": "https://api.noctuasky.com/parse/files/noctuasky/950878c3fab9f295edc592e2b0c566d4_Meade-114_900_EQ1-B.jpg",
         "subComponents": [

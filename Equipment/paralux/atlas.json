@@ -1,7 +1,7 @@
 [
     {
         "astroId": "paralux_atlas_10x50",
-        "manufacturerId": "stelvision",
+        "manufacturerId": "paralux",
         "typeId": "binoculars",
         "modelName": "Atlas 10x50",
         "connectorsId": ["eye_adaptor"],

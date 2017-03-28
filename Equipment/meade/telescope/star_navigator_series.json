@@ -46,10 +46,7 @@
             "manufacturerId": "meade",
             "typeId": "telescope",
             "modelName": "StarNavigator NG 130mm Travel Pack",
-            "subComponents": [
-                "meade_starnavigator_ng_130mm_optical_tube",
-                "meade_starnavigator_ng_mount"
-            ]
+            "subComponents": [["meade_starnavigator_ng_130mm_optical_tube#vixen_style_dovetail_clamp","meade_starnavigator_ng_mount#vixen_style_dovetail_bar"]]
         },
         {
             "astroId": "meade_starnavigator_ng_114mm_reflecting_telescope",
@@ -57,9 +54,6 @@
             "typeId": "telescope",
             "modelName": "StarNavigator NG 114mm Reflecting Telescope",
             "picture": "http://api.noctuasky.com/parse/files/noctuasky/7f7a3aa86ff793269977d73bb51fefc2_Meade-StarNavigator_NG_114mm_Reflecting_Telescope.png",
-            "subComponents": [
-                "meade_starnavigator_ng_114mm_optical_tube",
-                "meade_starnavigator_ng_mount"
-            ]
+            "subComponents": [["meade_starnavigator_ng_114mm_optical_tube#vixen_style_dovetail_clamp","meade_starnavigator_ng_mount#vixen_style_dovetail_bar"]]
         }
     ]

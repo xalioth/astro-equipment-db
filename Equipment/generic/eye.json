@@ -2,7 +2,7 @@
     {
         "astroId": "generic_eye",
         "manufacturerId": "generic",
-        "typeId": "eye",
+        "typeId": "eyes",
         "modelName": "Human Eyes",
         "connectorsId": ["eye"]
     }

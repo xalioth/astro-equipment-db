@@ -5,7 +5,7 @@
         "connectTo": [
             "eye_adaptor",
             "sky"
-        ],
+        ]
     },
     {
         "astroId": "eye_adaptor",

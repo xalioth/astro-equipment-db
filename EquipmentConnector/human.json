@@ -1,0 +1,29 @@
+[
+    {
+        "astroId": "eye",
+        "name": "Human Eye",
+        "connectTo": [
+            "eye_adaptor",
+            "sky"
+        ],
+    },
+    {
+        "astroId": "eye_adaptor",
+        "name": "Human Eye Adaptor",
+        "connectTo": ["eye"]
+    },
+    {
+        "astroId": "handle",
+        "connectTo": [
+            "hands"
+        ],
+        "name": "Handle"
+    },
+    {
+        "astroId": "hands",
+        "connectTo": [
+            "handle"
+        ],
+        "name": "Human Hands"
+    }
+]

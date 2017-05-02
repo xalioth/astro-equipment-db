@@ -6,7 +6,8 @@
             "modelName": "StarNavigator NG 114mm Optical Tube",
             "connectorsId": [
                 "vixen_style_dovetail_bar",
-                "eyepiece_female_31_75mm"
+                "eyepiece_female_31_75mm",
+                "sky"
             ],
             "params": {
                 "type": "Newtonian Reflector",
@@ -21,7 +22,8 @@
             "modelName": "StarNavigator NG 130mm Optical Tube",
             "connectorsId": [
                 "vixen_style_dovetail_bar",
-                "eyepiece_female_31_75mm"
+                "eyepiece_female_31_75mm",
+                "sky"
             ],
             "params": {
                 "type": "Newtonian Reflector",
@@ -35,7 +37,8 @@
             "typeId": "mount",
             "modelName": "StarNavigator NG Mount",
             "connectorsId": [
-                "vixen_style_dovetail_clamp"
+                "vixen_style_dovetail_clamp",
+                "ground"
             ],
             "params": {
                 "type": "altazimutal"

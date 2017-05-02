@@ -4,7 +4,7 @@
         "manufacturerId": "paralux",
         "typeId": "binoculars",
         "modelName": "Atlas 10x50",
-        "connectorsId": ["eye_adaptor"],
+        "connectorsId": ["eye_adaptor", "sky", "handle"],
         "params": {
         }
     }

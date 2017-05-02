@@ -1,0 +1,12 @@
+[
+    {
+        "astroId": "sky",
+        "connectTo": [],
+        "name": "Sky (Internal)"
+    },
+    {
+        "astroId": "ground",
+        "connectTo": [],
+        "name": "Ground (Internal)"
+    }
+]

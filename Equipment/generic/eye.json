@@ -4,6 +4,19 @@
         "manufacturerId": "generic",
         "typeId": "eyes",
         "modelName": "Human Eyes",
-        "connectorsId": ["eye"]
+        "connectorsId": [
+            "eye",
+            "sky"
+        ],
+    },
+    {
+        "astroId": "generic_hands",
+        "connectorsId": [
+            "hands",
+            "ground"
+        ],
+        "manufacturerId": "generic",
+        "modelName": "Human Hands",
+        "typeId": "mount"
     }
 ]

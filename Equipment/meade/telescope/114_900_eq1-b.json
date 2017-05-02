@@ -6,7 +6,8 @@
         "modelName": "114/900 EQ1-B Optical Tube",
         "connectorsId": [
             "vixen_style_dovetail_bar",
-            "eyepiece_female_31_75mm"
+            "eyepiece_female_31_75mm",
+            "sky"
         ],
         "params": {
             "type": "Newtonian Reflector",
@@ -20,7 +21,8 @@
         "typeId": "mount",
         "modelName": "114/900 EQ1-B Mount",
         "connectorsId": [
-            "vixen_style_dovetail_clamp"
+            "vixen_style_dovetail_clamp",
+            "ground"
         ],
         "params": {
             "type": "equatorial"
